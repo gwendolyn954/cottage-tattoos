@@ -18,8 +18,8 @@ JavaScript, CSS, HTML (for now)
 ## Take a peek at the demo:
 Check out the demo website at https://cottage-tattoos.netlify.app/
 
-## Up next:
+## Optimizations:
 
 - Adding image upload capability to form
-- Implementing Firebase to store data
+- Implementing Firebase
 - Adding appointment booking feature & payment component to accept deposits online
